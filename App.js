@@ -25,6 +25,7 @@ function App() {
   return (
     <View style={{backgroundColor:'red',flex:1,flexDirection:'row',justifyContent:'center',alignItems:'center'}}>
       <Text>Hello</Text>
+      <Text>Hello</Text>
     </View>
   );
 }
