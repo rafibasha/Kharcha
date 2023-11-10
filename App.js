@@ -23,7 +23,7 @@ import {
 function App() {
  
   return (
-    <View style={{backgroundColor:'green',flex:1,flexDirection:'row',justifyContent:'center',alignItems:'center'}}>
+    <View style={{backgroundColor:'red',flex:1,flexDirection:'row',justifyContent:'center',alignItems:'center'}}>
       <Text>Hello</Text>
     </View>
   );
