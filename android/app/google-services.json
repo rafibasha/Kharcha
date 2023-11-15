@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "807644763870",
+    "firebase_url": "https://tadum-d3fbf-default-rtdb.firebaseio.com",
+    "project_id": "tadum-d3fbf",
+    "storage_bucket": "tadum-d3fbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807644763870:android:9a3a05a24bb10b5893944f",
+        "android_client_info": {
+          "package_name": "com.bcn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807644763870-0s78i0hq4gvkfeen6hkt3fg2j70dhuhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bcn",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "807644763870-v428odbkp1cl8n235poof2d49cnhg3jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu3oChZsBjEVT6uI5fiu6Df_6_NymYDPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807644763870-5n5rp6mrakh9egqnvampnmcfjs3onbue.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807644763870-5lnvrf84bpitq658s8t81oepvfd9gatl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartronedge.kharcha"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807644763870:android:cba1ce3547d1918793944f",
+        "android_client_info": {
+          "package_name": "com.kharcha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807644763870-v428odbkp1cl8n235poof2d49cnhg3jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu3oChZsBjEVT6uI5fiu6Df_6_NymYDPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807644763870-5n5rp6mrakh9egqnvampnmcfjs3onbue.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807644763870-5lnvrf84bpitq658s8t81oepvfd9gatl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartronedge.kharcha"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
